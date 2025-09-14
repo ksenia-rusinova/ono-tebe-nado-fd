@@ -179,6 +179,7 @@ p {
 
 .card-link {
     height: 100%;
+    text-decoration: none;
 }
 
 .card {
@@ -260,9 +261,6 @@ p {
     display: flex;
     flex-direction: column;
     gap: 24px;
-}
-
-.max-width-of-first-paragraph {
     max-width: 688px;
 }
 
